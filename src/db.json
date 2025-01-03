@@ -1,0 +1,154 @@
+{
+  "jobs": [
+    {
+      "title": "Junior Vue Developer",
+      "type": "Contract",
+      "location": "Remote",
+      "description": "Entry-level Vue developer needed to assist in building dynamic single-page applications. Familiarity with Vue CLI and Vuetify is a plus.",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Webify",
+        "description": "Webify helps businesses go digital by developing responsive and user-friendly applications with the latest technology stacks.",
+        "contactEmail": "careers@webify.com",
+        "contactPhone": "800-789-9874"
+      },
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Vue Front-End Engineer",
+      "type": "Full-Time",
+      "location": "San Francisco, CA",
+      "description": "We're looking for a Vue.js Front-End Engineer to build and maintain interactive web applications. Experience with Vue 3, Tailwind CSS, and state management is preferred.",
+      "salary": "$110K - $120K",
+      "company": {
+        "name": "BrightTech",
+        "description": "BrightTech focuses on cutting-edge web development projects for high-profile clients, fostering creativity and growth in the tech space.",
+        "contactEmail": "jobs@brighttech.com",
+        "contactPhone": "415-123-4567"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Senior Vue Developer",
+      "type": "Part-Time",
+      "location": "Boston, MA",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Lead Vue Engineer",
+      "type": "Full-Time",
+      "location": "Austin, TX",
+      "description": "Seeking an experienced Lead Vue Engineer to drive the development of our main product. Must have experience with large-scale Vue applications and API integration.",
+      "salary": "$130K - $140K",
+      "company": {
+        "name": "InnovateSoft",
+        "description": "InnovateSoft specializes in scalable enterprise software solutions for healthcare and finance industries.",
+        "contactEmail": "hr@innovatesoft.com",
+        "contactPhone": "512-456-7890"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Vue.js UI Developer",
+      "type": "Freelance",
+      "location": "Seattle, WA",
+      "description": "We're hiring a Vue.js developer with a keen eye for design to create engaging user interfaces. Must have experience with CSS frameworks and component libraries.",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "PixelCraft",
+        "description": "PixelCraft is a boutique design and development agency working on user-centric web solutions.",
+        "contactEmail": "hello@pixelcraft.com",
+        "contactPhone": "206-123-4567"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Mid-Level Vue Developer",
+      "type": "Part-Time",
+      "location": "Chicago, IL",
+      "description": "Join our team to develop innovative web platforms using Vue and GraphQL. Previous experience with Vite and modern build tools is required.",
+      "salary": "$85K - $95K",
+      "company": {
+        "name": "NextGen Apps",
+        "description": "NextGen Apps delivers digital products for tech startups looking to disrupt their industries.",
+        "contactEmail": "jobs@nextgenapps.com",
+        "contactPhone": "312-654-3210"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Vue.js Developer",
+      "type": "Remote",
+      "location": "New York, NY",
+      "description": "Remote Vue.js Developer needed to work on a large eCommerce platform. Experience with Vuex and payment gateway integration is preferred.",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "CommerceTech",
+        "description": "CommerceTech is revolutionizing the online shopping experience with scalable and innovative web technologies.",
+        "contactEmail": "recruitment@commercetech.com",
+        "contactPhone": "212-987-6543"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Vue Full-Stack Developer",
+      "type": "Full-Time",
+      "location": "Denver, CO",
+      "description": "Looking for a Full-Stack Vue Developer with backend experience in Node.js and MongoDB. A passion for clean code and great UX is essential.",
+      "salary": "$105K - $115K",
+      "company": {
+        "name": "CloudSphere",
+        "description": "CloudSphere builds cloud-native applications for enterprise-level clients across multiple sectors.",
+        "contactEmail": "team@cloudsphere.com",
+        "contactPhone": "720-321-6547"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Vue Front-End Consultant",
+      "type": "Consultant",
+      "location": "Los Angeles, CA",
+      "description": "Consultant role for a front-end expert with Vue 3 knowledge. You will advise on performance optimization and design scalability.",
+      "salary": "$120K - $130K",
+      "company": {
+        "name": "DigitalEdge",
+        "description": "DigitalEdge partners with enterprises to modernize their web presence and improve user experience.",
+        "contactEmail": "contact@digitaledge.com",
+        "contactPhone": "310-654-7891"
+      }
+    },
+    {
+      "id": "10",
+      "title": "Vue Mobile App Developer",
+      "type": "Full-Time",
+      "location": "Miami, FL",
+      "description": "Vue Mobile App Developer needed to build hybrid mobile applications using Vue and Capacitor. Prior experience with PWA development is a plus.",
+      "salary": "$95K - $105K",
+      "company": {
+        "name": "Appify Labs",
+        "description": "Appify Labs focuses on creating modern mobile and web applications for small to medium-sized businesses.",
+        "contactEmail": "apply@appifylabs.com",
+        "contactPhone": "305-123-4567"
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "y9qQd@example.com",
+      "phone": "555-555-5555",
+      "role": "admin",
+      "password": "password"
+    }
+  ]
+}

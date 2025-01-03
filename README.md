@@ -1,6 +1,10 @@
 ## Screenshots
 
 <img src="public/screen.png" />
+<img src="public/screen-2.png" />
+<img src="public/screen-3.png" />
+<img src="public/screen-4.png" />
+<img src="public/screen-5.png" />
 
 ## Usage
 

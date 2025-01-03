@@ -10,7 +10,7 @@
         "name": "Webify",
         "description": "Webify helps businesses go digital by developing responsive and user-friendly applications with the latest technology stacks.",
         "contactEmail": "careers@webify.com",
-        "contactPhone": "800-789-9874"
+        "contactPhone": "800-789-9872"
       },
       "id": "1"
     },
@@ -138,6 +138,20 @@
         "description": "Appify Labs focuses on creating modern mobile and web applications for small to medium-sized businesses.",
         "contactEmail": "apply@appifylabs.com",
         "contactPhone": "305-123-4567"
+      }
+    },
+    {
+      "id": "4ee3",
+      "title": "Full Stack Developer (Vue.js & Laravel)",
+      "type": "Full-Time",
+      "location": "California",
+      "description": "We are seeking an experienced Full Stack Developer with a strong proficiency in Vue.js and Laravel. As a Full Stack Developer, you will be responsible for designing, developing, and maintaining web applications and ensuring their seamless integration between front-end and back-end systems.\n\nKey Responsibilities:\n\n    Develop and maintain complex web applications using Vue.js for the front end and Laravel for the back end.\n\n    Design user-friendly and responsive interfaces with Vue.js, ensuring optimal performance across devices.\n\n    Build and manage RESTful APIs with Laravel for data management and integration with front-end applications.\n\n    Collaborate with cross-functional teams, including designers and product managers, to define technical requirements and deliver exceptional user experiences.\n\n    Write clean, well-documented, and efficient code following best practices.\n\n    Troubleshoot, test, and optimize web applications to improve functionality and performance.\n\n    Stay up-to-date with the latest web development technologies and trends to ensure the best solutions for the company’s projects.\n\nRequired Skills and Qualifications:\n\n    5+ years of experience as a Full Stack Developer.\n\n    Strong expertise in Vue.js and Laravel.\n\n    Experience with front-end technologies such as HTML5, CSS3, and JavaScript.\n\n    Experience with PostgreSQL for database management.\n\n    Proficiency in creating and maintaining RESTful APIs.\n\n    Experience with version control systems, such as Git.\n\n    Knowledge of agile development methodologies.\n\n    Strong problem-solving and debugging skills.\n\n    Ability to work independently and collaboratively in a team environment.\n\nPreferred Qualifications:\n\n    Experience with AWS for cloud infrastructure management and deployment.\n\n    Familiarity with Docker and containerization.\n\n    Experience with automated testing and CI/CD pipelines.\n",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "ABC Labs",
+        "description": "ABC Labs is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services",
+        "contactEmail": "abclabs@abclabs.com",
+        "contactPhone": ""
       }
     }
   ],
